@@ -1,0 +1,13 @@
+# Virtual environment (Python)
+env/
+venv/
+
+# Bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Konfigurasi dan kredensial sensitif
+config.py
+.env
